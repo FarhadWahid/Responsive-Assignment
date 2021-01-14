@@ -24,13 +24,13 @@
             }
         }
         
-        @media(max-width:668px) {
+        @media(max-width:768px) {
             .logo {
                 grid-template-columns: repeat(2, 1fr);
             }
         }
         
-        @media(max-width:268px) {
+        @media(max-width:480px) {
             .logo {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -70,13 +70,13 @@
             }
         }
         
-        @media(max-width:668px) {
+        @media(max-width:768px) {
             .half-width {
                 grid-template-columns: repeat(2, 1fr);
             }
         }
         
-        @media(max-width:268px) {
+        @media(max-width:480px) {
             .half-width {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -120,7 +120,7 @@
             grid-template-columns: repeat(3, 1fr);
         }
         
-        @media(max-width:268px) {
+        @media(max-width:480px) {
             .nike {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -132,7 +132,7 @@
             }
         }
         
-        @media(max-width:668px) {
+        @media(max-width:768px) {
             .nike {
                 grid-template-columns: repeat(2, 1fr);
             }
@@ -157,7 +157,7 @@
             }
         }
         
-        @media(max-width:268px) {
+        @media(max-width:480px) {
             .casual-shows {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -177,13 +177,13 @@
             }
         }
         
-        @media(max-width:668px) {
+        @media(max-width:768px) {
             .last-sec {
                 grid-template-columns: repeat(2, 1fr);
             }
         }
         
-        @media(max-width:268px) {
+        @media(max-width:480px) {
             .last-sec {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -209,7 +209,7 @@
             }
         }
         
-        @media(max-width:268px) {
+        @media(max-width:480px) {
             .last-half-width {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -295,13 +295,13 @@
             }
         }
         
-        @media(max-width:668px) {
+        @media(max-width:768px) {
             .nike-formal {
                 grid-template-columns: repeat(2, 1fr);
             }
         }
         
-        @media(max-width:268px) {
+        @media(max-width:480px) {
             .nike-formal {
                 grid-template-columns: repeat(1, 1fr);
             }

@@ -86,7 +86,7 @@
             width: 42%;
             float: left;
             margin: 10px;
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: repeat(3, 1fr);
         }
         
         .half-width img {
@@ -168,7 +168,7 @@
             width: 90%;
             margin: 20px;
             display: block;
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: repeat(3, 1fr);
         }
         
         @media (max-width:992px) {
@@ -220,7 +220,7 @@
             margin: 6px;
             float: left;
             padding: 4px;
-            grid-template-columns: repeat(1, 1fr);
+            grid-template-columns: repeat(3, 1fr);
         }
         
         .last-half-width img {
@@ -257,7 +257,7 @@
             padding: 35px;
             height: 600px;
             box-shadow: 10px 10px 5px #aaaaaa;
-            grid-template-columns: repeat(1, 1fr);
+            grid-template-columns: repeat(3, 1fr);
         }
         
         .nike-show-fromal img {

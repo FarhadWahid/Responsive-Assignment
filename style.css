@@ -11,7 +11,7 @@
         .logo {
             width: 500px;
             height: 50px;
-            grid-template-columns: repeat(2, 1fr);
+            grid-template-columns: repeat(1, 1fr);
         }
         
         .logo img {
@@ -20,7 +20,7 @@
         
         @media (max-width:992px) {
             .logo {
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(1, 1fr);
             }
         }
         
@@ -66,7 +66,7 @@
         
         @media (max-width:992px) {
             .half-width {
-                grid-template-columns: repeat(3, 1fr);
+                grid-template-columns: repeat(2, 1fr);
             }
         }
         
@@ -86,7 +86,7 @@
             width: 42%;
             float: left;
             margin: 10px;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(2, 1fr);
         }
         
         .half-width img {
@@ -117,7 +117,7 @@
             padding: 35px;
             height: 600px;
             box-shadow: 10px 10px 5px #aaaaaa;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(4, 1fr);
         }
         
         @media(max-width:480px) {
@@ -147,7 +147,7 @@
         
         @media (max-width:992px) {
             .casual-shows {
-                grid-template-columns: repeat(3, 1fr);
+                grid-template-columns: repeat(4, 1fr);
             }
         }
         
@@ -168,7 +168,7 @@
             width: 90%;
             margin: 20px;
             display: block;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(4, 1fr);
         }
         
         @media (max-width:992px) {
@@ -257,7 +257,7 @@
             padding: 35px;
             height: 600px;
             box-shadow: 10px 10px 5px #aaaaaa;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(4, 1fr);
         }
         
         .nike-show-fromal img {
@@ -291,7 +291,7 @@
         
         @media (max-width:992px) {
             .nike-formal {
-                grid-template-columns: repeat(3, 1fr);
+                grid-template-columns: repeat(4, 1fr);
             }
         }
         

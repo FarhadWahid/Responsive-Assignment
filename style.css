@@ -115,6 +115,7 @@
             padding: 30px;
             height: 600px;
             box-shadow: 10px 10px 5px #aaaaaa;
+            overflow: hidden;
         }
         
         @media(max-width:480px) {
@@ -251,6 +252,7 @@
             padding: 35px;
             height: 600px;
             box-shadow: 10px 10px 5px #aaaaaa;
+            overflow: hidden;
         }
         
         .nike-show-fromal img {

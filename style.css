@@ -25,7 +25,7 @@
         
         @media(max-width:768px) {
             .logo {
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(4, 1fr);
             }
         }
         
@@ -71,7 +71,7 @@
         
         @media(max-width:768px) {
             .half-width {
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(4, 1fr);
             }
         }
         
@@ -106,13 +106,13 @@
         }
         
         .nike {
-            width: 27%;
+            width: 28%;
             float: left;
             border: 5px;
             margin: 10px;
             border-radius: 20px;
             background-color: skyblue;
-            padding: 35px;
+            padding: 30px;
             height: 600px;
             box-shadow: 10px 10px 5px #aaaaaa;
         }
@@ -137,7 +137,7 @@
         
         .nike-show img {
             width: 400px;
-            margin-left: 1px;
+            margin-left: 55px;
             background-color: paleturquoise;
             border-radius: 20px;
         }
@@ -150,7 +150,7 @@
         
         @media(max-width:668px) {
             .casual-shows {
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(4, 1fr);
             }
         }
         
@@ -175,7 +175,7 @@
         
         @media(max-width:768px) {
             .last-sec {
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(4, 1fr);
             }
         }
         
@@ -200,7 +200,7 @@
         
         @media(max-width:668px) {
             .last-half-width {
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat(4, 1fr);
             }
         }
         
@@ -223,7 +223,7 @@
         }
         
         .group-1 {
-            width: 120%;
+            width: 130%;
             height: 150px;
             float: left;
             margin: 20px;
@@ -243,7 +243,7 @@
         }
         
         .nike-formal {
-            width: 27%;
+            width: 28%;
             float: left;
             border: 5px;
             margin: 10px;
@@ -273,7 +273,7 @@
         .half-width-man {
             width: 200px;
             float: left;
-            margin: 10px;
+            margin: 140px;
         }
         
         .half-width-man img {
@@ -290,7 +290,7 @@
         
         @media(max-width:768px) {
             .nike-formal {
-                grid-template-columns: repeat(2, 1fr);
+                grid-template-columns: repeat4, 1fr);
             }
         }
         

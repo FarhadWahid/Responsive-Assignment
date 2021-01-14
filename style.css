@@ -29,7 +29,7 @@
             }
         }
         
-        @media(max-width:480px) {
+        @media(max-width:280px) {
             .logo {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -75,7 +75,7 @@
             }
         }
         
-        @media(max-width:480px) {
+        @media(max-width:280px) {
             .half-width {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -118,7 +118,7 @@
             overflow: hidden;
         }
         
-        @media(max-width:480px) {
+        @media(max-width:280px) {
             .nike {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -155,7 +155,7 @@
             }
         }
         
-        @media(max-width:480px) {
+        @media(max-width:280px) {
             .casual-shows {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -180,7 +180,7 @@
             }
         }
         
-        @media(max-width:480px) {
+        @media(max-width:280px) {
             .last-sec {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -205,7 +205,7 @@
             }
         }
         
-        @media(max-width:480px) {
+        @media(max-width:280px) {
             .last-half-width {
                 grid-template-columns: repeat(1, 1fr);
             }
@@ -231,6 +231,7 @@
             padding: 2px;
             box-shadow: 10px 10px 5px #aaaaaa;
             border-radius: 20px;
+            overflow: hidden;
         }
         
         .highlight {
@@ -296,7 +297,7 @@
             }
         }
         
-        @media(max-width:480px) {
+        @media(max-width:280px) {
             .nike-formal {
                 grid-template-columns: repeat(1, 1fr);
             }

@@ -128,7 +128,7 @@
         
         @media(max-width:992px) {
             .nike {
-                grid-template-columns: repeat(3, 1fr);
+                grid-template-columns: repeat(4, 1fr);
             }
         }
         
@@ -199,7 +199,7 @@
         
         @media (max-width:992px) {
             .last-half-width {
-                grid-template-columns: repeat(3, 1fr);
+                grid-template-columns: repeat(2, 1fr);
             }
         }
         
@@ -220,7 +220,7 @@
             margin: 6px;
             float: left;
             padding: 4px;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(1, 1fr);
         }
         
         .last-half-width img {

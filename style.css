@@ -17,24 +17,6 @@
             width: 40%;
         }
         
-        @media (max-width:992px) {
-            .logo {
-                grid-template-columns: repeat(1, 1fr);
-            }
-        }
-        
-        @media(max-width:768px) {
-            .logo {
-                grid-template-columns: repeat(1, 1fr);
-            }
-        }
-        
-        @media(max-width:280px) {
-            .logo {
-                grid-template-columns: repeat(1, 1fr);
-            }
-        }
-        
         .header {
             width: 90%;
             height: 40px;
@@ -61,24 +43,6 @@
         .sec-1 {
             margin: 50px;
             padding: 30px;
-        }
-        
-        @media (max-width:992px) {
-            .half-width {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-        
-        @media(max-width:768px) {
-            .half-width {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-        
-        @media(max-width:280px) {
-            .half-width {
-                grid-template-columns: repeat(1, 1fr);
-            }
         }
         
         .half-width {
@@ -119,47 +83,11 @@
             grid-template-columns: none;
         }
         
-        @media(max-width:280px) {
-            .nike {
-                grid-template-columns: repeat(1, 1fr);
-            }
-        }
-        
-        @media(max-width:992px) {
-            .nike {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-        
-        @media(max-width:768px) {
-            .nike {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-        
         .nike-show img {
             width: 400px;
             margin-left: 55px;
             background-color: paleturquoise;
             border-radius: 20px;
-        }
-        
-        @media (max-width:992px) {
-            .casual-shows {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-        
-        @media(max-width:668px) {
-            .casual-shows {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-        
-        @media(max-width:280px) {
-            .casual-shows {
-                grid-template-columns: repeat(1, 1fr);
-            }
         }
         
         .casual-shows {
@@ -169,47 +97,11 @@
             display: block;
         }
         
-        @media (max-width:992px) {
-            .last-sec {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-        
-        @media(max-width:768px) {
-            .last-sec {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-        
-        @media(max-width:280px) {
-            .last-sec {
-                grid-template-columns: repeat(1, 1fr);
-            }
-        }
-        
         .last-sec {
             height: 200px;
             float: left;
             margin: 20px;
             padding: 10px;
-        }
-        
-        @media (max-width:992px) {
-            .last-half-width {
-                grid-template-columns: repeat(2, 1fr);
-            }
-        }
-        
-        @media(max-width:668px) {
-            .last-half-width {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-        
-        @media(max-width:280px) {
-            .last-half-width {
-                grid-template-columns: repeat(1, 1fr);
-            }
         }
         
         .last-half-width {
@@ -275,49 +167,12 @@
         }
         
         .half-width-man {
-            width: 200px;
+            width: 700px;
             float: left;
             margin: 140px;
         }
         
-        @media (max-width:992px) {
-            .half-width-man {
-                grid-template-columns: repeat(1, 1fr);
-            }
-        }
-        
-        @media(max-width:768px) {
-            .half-width-man {
-                grid-template-columns: repeat(1, 1fr);
-            }
-        }
-        
-        @media(max-width:280px) {
-            .half-width-man {
-                grid-template-columns: repeat(1, 1fr);
-            }
-        }
-        
         .half-width-man img {
-            width: 700px;
-            margin-left: 200px;
-            margin-top: 90px;
-        }
-        
-        @media (max-width:992px) {
-            .nike-formal {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-        
-        @media(max-width:768px) {
-            .nike-formal {
-                grid-template-columns: repeat4, 1fr);
-            }
-        }
-        
-        @media(max-width:280px) {
-            .nike-formal {
-                grid-template-columns: repeat(1, 1fr);
-            }
+            width: 100%;
+            margin-left: 190px;
         }
